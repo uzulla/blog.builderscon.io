@@ -1,0 +1,9 @@
+title: builderscon Blog
+description: > 
+  builderscon is a festival for the technology lovers.
+baseurl: /
+url: "http://blog.builderscon.io/"
+witter_username: builderscon
+github_username:  builderscon
+
+markdown: kramdown
