@@ -2,7 +2,7 @@
 layout: post
 title:  "Where builderscon Is Going"
 date:   2016-02-14 13:06:50 +0900
-categories: builderscon
+categories: builderscon jp
 ---
 
 いよいよ[今週builderscon開催に向けて説明会的なことをする](http://eventdots.jp/event/579495)予定なのですが、このbuilderscon説明する際、buildersconと[YAPC::Asia Tokyo](http://yapcasia.org/2015/)の関係性を気にされる方がたくさんいます。これは当然で、buildersconの首謀者である[lestrratこと牧](https://twitter.com/lestrrat)はYAPC::Asia Tokyoスタッフから始めたのち主催になり、2015年までの合計10年間YAPC::Asia Tokyoに関わってきたからです。
