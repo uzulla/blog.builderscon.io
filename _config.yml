@@ -6,3 +6,11 @@ twitter_username: builderscon
 github_username:  builderscon
 
 markdown: kramdown
+
+authors:
+  lestrrat:
+    display_name: Daisuke Maki
+    twitter: lestrrat 
+    github: lestrrat
+    web: http://lestrrat.github.io
+    gravatar_id: f34e1745f7f8286586e921f7830eca78

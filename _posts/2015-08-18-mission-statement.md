@@ -3,6 +3,7 @@ layout: post
 title:  "Mission Statement"
 date:   2015-08-18 13:06:50 +0900
 categories: builderscon
+author: lestrrat
 ---
 
 builderscon (Builders Conference) is to be conference for the modern world builders -- programmers, mechanical engineers, future technology architects -- the architects that build our services, our gadgets, our infrastructure, our future.
