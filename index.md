@@ -1,10 +1,11 @@
 ---
 layout: default
 ---
-<div class="home">
+<div class="section article">
+<div class="inner">
+<div class="section-content no-header">
 
-  <h1 class="page-heading">Posts</h1>
-
+<div class="post-content">
   <ul class="post-list">
     {% for post in site.posts %}
       <li>
@@ -16,7 +17,8 @@ layout: default
       </li>
     {% endfor %}
   </ul>
-
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
-
 </div>
+
+</div><!--  / .section-content /  -->
+</div><!--  / .inner /  -->
+</div><!--  / .article /  -->
