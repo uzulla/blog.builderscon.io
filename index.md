@@ -6,6 +6,7 @@ layout: default
 <div class="section-content no-header">
 
 <div class="post-content">
+  <h1>Recent Posts</h1>
   <ul class="post-list">
     {% for post in site.posts %}
       <li>
