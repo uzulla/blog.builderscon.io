@@ -6,10 +6,10 @@ categories: builderscon
 author: lestrrat
 ---
 
-If you are interested in builderscon, [https://slack-invite-dot-builderscon-1248.appspot.com/](please join our Slack team)!
+If you are interested in builderscon, [please join our Slack team](https://slack-invite-dot-builderscon-1248.appspot.com/)!
 
 
 ---
 
-buildersconに興味があるという皆様、[https://slack-invite-dot-builderscon-1248.appspot.com/](是非ここからSlackにご参加ください)！
+buildersconに興味があるという皆様、[是非ここからSlackにご参加ください](https://slack-invite-dot-builderscon-1248.appspot.com/)！
 
