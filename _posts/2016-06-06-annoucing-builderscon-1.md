@@ -18,4 +18,4 @@ Let us know if you are interested in [sponsoring us](http://blog.builderscon.io/
 
 詳細は本サイトに順次発表していきます！
 
-スポンサーに興味がある場合は[是非ご連絡ください](http://blog.builderscon.io/builderscon/2016/06/06/annoucing-builderscon-1.html)！
+スポンサーに興味がある場合は[是非ご連絡ください](http://blog.builderscon.io/builderscon/2016/06/06/call-for-sponsors.html)！
