@@ -6,6 +6,8 @@ categories: builderscon
 author: lestrrat
 ---
 
+（日本語は英語の後にあります）
+
 Time keeping during a session is one of the main responsibilities of a conference staff. It's a simple enough job, but there are subtle things that must be taught to new staff members each time we hold a conference.
 
 For example:
