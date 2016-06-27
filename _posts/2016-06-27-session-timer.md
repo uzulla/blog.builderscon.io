@@ -11,6 +11,7 @@ author: lestrrat
 Time keeping during a session is one of the main responsibilities of a conference staff. It's a simple enough job, but there are subtle things that must be taught to new staff members each time we hold a conference.
 
 For example:
+
 * At what times do you notify the speaker? 10 minutes left? 5 minutes left?
 * Should you notify the speaker at different times if the session is shorter/longer?
 * Should you share your timer with the speaker so they can see it?
@@ -36,6 +37,7 @@ Hope this is useful. Keep on building!
 セッション中のタイムキープはカンファレンス運営スタッフの重要なタスクのひとつです。タイムキープは一見単純な作業に思えますが、実際にやってみると新しいスタッフが知らなくてはいけない細かいニュアンスがいくつかあります。
 
 気をつけるポイントをいくつか上げると以下のような物があります：
+
 * どのタイミングでスピーカーにお知らせを出すか？
 * 60分枠と30分枠で同じタイミングでお知らせを出すべきか？それとも変えるべきか？
 * 自分が見ているタイマーをスピーカーと共有すべきか？
